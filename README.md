@@ -24,6 +24,6 @@ scoop install https://raw.githubusercontent.com/hust-open-atom-club/ScoopBucket/
 
 ## Apps
 
-| Name                                                               | Version | Description                                                               | License                                                |
-| ------------------------------------------------------------------ | ------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [atomgit-cli](https://atomgit.com/hust-open-atom-club/atomgit-cli) | 0.6.0   | A command-line interface for managing AtomGit repositories and workflows. | [Mulan PSL v2](https://license.coscl.org.cn/MulanPSL2) |
+| Name                                                                | Description                                                               | License                                                |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [atomgit-cli](https://atomgit.com/hust-open-atom-club/atomgit-cli)    | A command-line interface for managing AtomGit repositories and workflows. | [Mulan PSL v2](https://license.coscl.org.cn/MulanPSL2) |
